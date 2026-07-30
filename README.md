@@ -9,11 +9,9 @@ Turning data into meaningful insights through analytics and visualization.
 
 ## 👩‍💻 About Me
 
-- 💼 Associate Content Editor at Clarivate
-- 📊 Transitioning into Data Analytics
-- 🌱 Currently learning **Python, SQL, Power BI & Looker Studio**
-- 📈 Passionate about data visualization and business intelligence
-- 🎯 Goal: Become a Data Analyst
+- 📚 Currently pursuing a Data Analytics course
+- 📊 Building portfolio projects with SQL, Excel, Power BI, Python & Looker Studio
+- 🎯 Aspiring Data Analyst
 
 ---
 
