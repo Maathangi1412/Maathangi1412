@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maathangi</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Excel | Power BI | Python</h3>
-
-<p align="center">
-Turning data into meaningful insights through analytics and visualization.
-</p>
+https://canva.link/dx7glvmkpaae4hm
 
 ---
 
