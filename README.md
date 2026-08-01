@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="githug_banner.gif.gif" width="100%" alt="GitHub Banner">
-</p>
+<img width="808" height="266" alt="image" src="https://github.com/user-attachments/assets/4347f969-5373-459c-8cbc-a060c0277611" />
+
 
 ---
 
