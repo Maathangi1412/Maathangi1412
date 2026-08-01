@@ -94,10 +94,11 @@
 ## 📫 Connect With Me
 
 💼 LinkedIn:
-YOUR_LINKEDIN_URL
+www.linkedin.com/in/maathangi-p-analyst
+
 
 📧 Email:
-YOUR_EMAIL
+maathangipalani@gmail.com
 
 ---
 
