@@ -1,4 +1,6 @@
-https://canva.link/dx7glvmkpaae4hm
+<p align="center">
+  <img src="githug_banner.gif" width="100%" alt="GitHub Banner">
+</p>
 
 ---
 
